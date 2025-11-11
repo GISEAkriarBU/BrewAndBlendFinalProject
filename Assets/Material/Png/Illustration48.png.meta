@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 264231e73ebcac045b401aa7a0466326
+guid: f4392f89a1cfbf046beb56e681c58862
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6494957919028787182
-    second: Cocoa_0
+      213: 8717535640427902895
+    second: Illustration48_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cocoa_0
+      name: Illustration48_0
       rect:
         serializedVersion: 2
-        x: 67
-        y: 20
-        width: 850
-        height: 969
+        x: 114
+        y: 14
+        width: 764
+        height: 956
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 218cd253f264dd5a0800000000000000
-      internalID: -6494957919028787182
+      spriteID: fa7338c3a78eaf870800000000000000
+      internalID: 8717535640427902895
       vertices: []
       indices: 
       edges: []
@@ -135,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cocoa_0: -6494957919028787182
+      Illustration48_0: 8717535640427902895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

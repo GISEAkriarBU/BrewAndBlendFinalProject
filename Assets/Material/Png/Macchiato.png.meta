@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 30c68886457b19e40b9c7f1e4626fe3a
+guid: b9c83e9ced8ac14488efddcb5841eb5e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4438244614203285255
-    second: Illustration48 (2)_0
+      213: 8742201318064957853
+    second: Macchiato_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Illustration48 (2)_0
+      name: Macchiato_0
       rect:
         serializedVersion: 2
-        x: 105
-        y: 45
-        width: 777
-        height: 905
+        x: 114
+        y: 14
+        width: 764
+        height: 956
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70f90e736ffc79d30800000000000000
-      internalID: 4438244614203285255
+      spriteID: d99a636d7c9825970800000000000000
+      internalID: 8742201318064957853
       vertices: []
       indices: 
       edges: []
@@ -135,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Illustration48 (2)_0: 4438244614203285255
+      Macchiato_0: 8742201318064957853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

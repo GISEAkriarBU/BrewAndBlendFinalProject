@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4c6d9b7c597147b42be9be1d7e48d40e
+guid: 1dd3d25242fa02946bd8beab4ebc2cef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8728907249309422477
-    second: Latte_0
+      213: -1850988681521255122
+    second: Coffee_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Latte_0
+      name: Coffee_0
       rect:
         serializedVersion: 2
-        x: 105
-        y: 45
-        width: 777
-        height: 905
+        x: 191
+        y: 177
+        width: 626
+        height: 592
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 37c649fba11bcd680800000000000000
-      internalID: -8728907249309422477
+      spriteID: e2d28a2e997ff46e0800000000000000
+      internalID: -1850988681521255122
       vertices: []
       indices: 
       edges: []
@@ -135,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Latte_0: -8728907249309422477
+      Coffee_0: -1850988681521255122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
